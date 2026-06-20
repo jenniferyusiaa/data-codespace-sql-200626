@@ -1,5 +1,3 @@
-# data-codespace-sql-200626
-
 DROP DATABASE IF EXISTS restaurant_reviews;
 CREATE DATABASE restaurant_reviews;
 USE restaurant_reviews;
